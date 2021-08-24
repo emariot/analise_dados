@@ -1,6 +1,6 @@
 # Análises de dados em R e Python
 ---
-## Previsão do PIB brasileiro com técnica de Nowcasting
+## * Previsão do PIB brasileiro com técnica de Nowcasting
 * O Nowcasting é uma abordagem moderna de monitorar as condições econômicas em tempo real. Diferentemente das técnicas de previsão tradicionais, o nowcasting está preocupado em prever os indicadores enqunto estamos dentro do período de referência, ou logo após. Não há interesse em previsões maior prazo.
 * O método mais utilizado é o modelo de fator dinâmico, que condensa a informação de várias séries de dados em um pequeno número de fatores. 
 * O filtro de Kalman gera projeções para todas as séries de dados e estimativas para cada lançamento. Quando há o anúncio de novos dados, há uma alteração no modelo, chamado de notícias.
