@@ -12,3 +12,4 @@
 |    Previsão do Pib   |
 | ------------ |
 <a href="https://github.com/emariot/analise_dados/blob/main/nowcasting_predict.PNG"><img src="https://github.com/emariot/analise_dados/blob/main/nowcasting_predict.PNG" align="left" height="400" width="800" ></a>|
+---
