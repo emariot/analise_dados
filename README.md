@@ -12,4 +12,4 @@ Análises de dados em R e Python
 
 |    Previsão do Pib   |
 | ------------ |
-<a href="https://github.com/emariot/analise_dados/blob/main/nowcasting_predict.PNG"><img src="https://github.com/emariot/analise_dados/blob/main/nowcasting_predict.PNG" align="left" height="400" width="600" ></a>|
+<a href="https://github.com/emariot/analise_dados/blob/main/nowcasting_predict.PNG"><img src="https://github.com/emariot/analise_dados/blob/main/nowcasting_predict.PNG" align="left" height="400" width="800" ></a>|
